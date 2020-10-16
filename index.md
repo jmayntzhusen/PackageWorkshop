@@ -4,15 +4,15 @@
 
 ## Agenda
 
-- Prerequisites
-- Exercise 1: Creating a testsite locally
-- Exercise 2: Creating a package from the backoffice
-- Exercise 3: Creating a draft package on Our
-- Exercise 4: Pushing your package to Github
-- Exercise 5: Pack up your package locally using UmbPack 
-- Exercise 6: Pushing your package to Our using UmbPack
-- Exercise 7: Deploy your package using Github Actions
-- Bonus exercise: Archive older versions on push
+- [Prerequisites](#prerequisites)
+- [Exercise 1: Creating a testsite locally](#exercise-1-creating-a-testsite-locally)
+- [Exercise 2: Creating a package from the backoffice](#exercise-2-creating-a-package-from-the-backoffice)
+- [Exercise 3: Creating a draft package on Our](#exercise-3-creating-a-draft-package-on-our)
+- [Exercise 4: Pushing your package to Github](#exercise-4-pushing-your-package-to-github)
+- [Exercise 5: Pack up your package locally using UmbPack](#exercise-5-pack-up-your-package-locally-using-umbpack)
+- [Exercise 6: Pushing your package to Our using UmbPack](#exercise-6-pushing-your-package-to-our-using-umbpack)
+- [Exercise 7: Deploy your package using Github Actions](#exercise-7-deploy-your-package-using-github-actions)
+- [Bonus exercise: Archive older versions on push](#bonus-exercise-archive-older-versions-on-push)
 
 ## Prerequisites
 
